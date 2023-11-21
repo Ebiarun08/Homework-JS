@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+    text-decoration: none !important;
+    
+} 
+a{
+    font-size: 18px;
+    font-weight: 400;
+    color: black !important;
+}
+.mainItems{
+ box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
